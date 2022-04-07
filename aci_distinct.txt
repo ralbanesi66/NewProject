@@ -1,0 +1,97 @@
+*******************************
+distinct(pt_regione)
+*******************************
+UMBRIA
+Campania
+LAZ
+LAZIO
+Abruzzo
+TRENTO
+ABRUZZO
+Lombardia
+Puglia
+CAMPANIA
+PUGLIA
+
+ 
+*******************************
+distinct(pt_tipoprat)
+*******************************
+AVVISI BONARI
+NOTE CORTESIA
+ACCERTAMENTI
+ZA
+
+INGIUNZIONI
+
+ 
+*******************************
+distinct(pt_tipologia_esito)
+*******************************
+Consegnato
+Consegnato in Ufficio Postale
+Senza Causale
+Non Sanabili
+Inesitata Generica
+Respinto/Rifiutato
+Deceduto
+Destinatario Deceduto
+Indirizzo Errato
+Irreperibile
+Sconosciuto
+Altre Motivazioni
+In Gestione Con Cad e/o Compiuta Giacenza
+Compiuta Giacenza
+Emigrato
+Indirizzo Incompleto
+Destinatario Sconosciuto
+Destinatario Trasferito
+In Gestione
+Consegnato a domicilio al destinatario
+Consegnato al domicilio a persona abilitata
+Indirizzo Insufficiente
+Trasferito
+
+Indirizzo Inesistente
+Non Ritirato
+Rifiutato
+Sanabili
+
+*******************************
+distinct(pt_anno)
+*******************************
+2016
+2009
+2010
+2015
+2014
+2013
+2019
+2011
+2012-2013-2014
+2015,2016
+2012
+ 
+*******************************
+distinct(pt_tipveic)
+*******************************
+AUTOCARRO
+MOTOCICLO
+AUTOBUS
+AUTOVEICOLO SPECIALE
+RIMORCHIO,RIMORCHIO
+AUTOVETTURA
+AUTOVEICOLO
+AUTOVEICOLO PROMISCUO
+TRATTORE STRADALE O MOTRICE
+SEMIRIMORCHIO
+QUADRICICLO
+MOTOCICLO CON CARROZZETTA
+MOTOCARRO
+RIMORCHIO
+MOTOVEICOLO
+MOTOVEICOLO,MOTOVEICOLO
+
+AUTOVEICOLO,AUTOVEICOLO
+
+ 
